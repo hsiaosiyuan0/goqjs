@@ -1,0 +1,19 @@
+{
+  "cSpell.words": [
+    "CFLAGS",
+    "cstr",
+    "goqjs",
+    "LDFLAGS",
+    "libc",
+    "longlong",
+    "lquickjs",
+    "quickjs",
+    "SRCDIR",
+    "stdlib",
+    "ulong",
+    "ulonglong"
+  ],
+  "files.associations": {
+    "quickjs.h": "c"
+  }
+}
