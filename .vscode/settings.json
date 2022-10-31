@@ -1,19 +1,28 @@
 {
   "cSpell.words": [
+    "AUTOINIT",
+    "BYTECODE",
     "CFLAGS",
     "cstr",
+    "GETSET",
     "goqjs",
     "LDFLAGS",
     "libc",
     "longlong",
     "lquickjs",
+    "MKPTR",
+    "MKVAL",
     "quickjs",
     "SRCDIR",
     "stdlib",
+    "TMASK",
     "ulong",
-    "ulonglong"
+    "ulonglong",
+    "VARREF"
   ],
   "files.associations": {
-    "quickjs.h": "c"
+    "quickjs.h": "c",
+    "quickjs-libc.h": "c",
+    "compare": "c"
   }
 }
